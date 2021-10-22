@@ -1,0 +1,54 @@
+body
+{
+    text-align: justify;
+    background-image: url(../IMAGENES/fondo5.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#div2
+{
+    width: 60%;
+    margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border:5px solid #020101;
+    background-color:rgb(129, 146, 192);
+    text-align: center;
+
+}
+
+
+
+.lgris
+{
+    color:rgb(0, 0, 0);
+}
+
+
+
+#divconsulta
+{
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border:0px solid;
+    
+}
+
+#divconsulta2
+{
+    background-color: rgb(245, 245,245);
+    font-size: 21px;
+    padding:5;
+    border-width:thin;
+    border:1px solid #CCCCCC;;
+    text-align: center;
+}
+
+
+
+
